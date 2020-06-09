@@ -1,0 +1,19 @@
+#adminPanel li {list-style: none;margin: auto;}
+
+#adminPanel a {
+    text-decoration: none;
+    color: inherit;
+}
+
+div#adminPanel {display: flex;margin: auto;}
+
+form#signin {
+    display: grid;
+    margin: 37vh auto;
+    width: fit-content;
+}
+
+#signin input {
+    padding: 0.4em;
+    margin: 1vh 0;
+}
